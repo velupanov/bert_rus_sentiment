@@ -14,7 +14,7 @@ Firstly, 5 separate models were trained on datasets. After that each model was u
 Models were pretrained from [DeepPavlov's Conversational RuBERT](http://docs.deeppavlov.ai/en/master/features/pretrained_vectors.html#bert) on russian sentiment data and after that fine-tuned on joined dataset.
 
 ## Examples
-The example of models loading and using is availabe in [Use BertClassifier Models for Sentiment Analysis.ipynb](./Use BertClassifier Models for Sentiment Analysis.ipynb).
+The example of models loading and using is availabe in [Use BertClassifier Models for Sentiment Analysis.ipynb](https://github.com/velupanov/bert_rus_sentiment/blob/master/Use%20BertClassifier%20Models%20for%20Sentiment%20Analysis.ipynb).
 
 ## TODO list
 Upload DistilBert model.
