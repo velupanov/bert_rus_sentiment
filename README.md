@@ -10,11 +10,13 @@ Models are available for download from [Google Drive](https://drive.google.com/o
 
 Firstly, 5 separate models were trained on datasets. After that each model was used to predict probability of label to unseen data, probabilities were summarized using model's F1-score as weights and new labels were applied to data. Dataset with new labels from models' predictions are stated as joined dataset later.
 
+Finally, there are 6 labels available for sentiment analysis: positive, negative, neutral, humor, skip and speech.
+
 ## Models Training
 Models were pretrained from [DeepPavlov's Conversational RuBERT](http://docs.deeppavlov.ai/en/master/features/pretrained_vectors.html#bert) on russian sentiment data and after that fine-tuned on joined dataset.
 
 ## Examples
-The example of models loading and using is availabe in [Use BertClassifier Models for Sentiment Analysis.ipynb](Use BertClassifier Models for Sentiment Analysis.ipynb).
+The example of models loading and using is availabe in [Use BertClassifier Models for Sentiment Analysis.ipynb](https://github.com/velupanov/bert_rus_sentiment/blob/master/Use%20BertClassifier%20Models%20for%20Sentiment%20Analysis.ipynb).
 
 ## Updates
 
