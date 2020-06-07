@@ -16,5 +16,7 @@ Models were pretrained from [DeepPavlov's Conversational RuBERT](http://docs.dee
 ## Examples
 The example of models loading and using is availabe in [Use BertClassifier Models for Sentiment Analysis.ipynb](Use BertClassifier Models for Sentiment Analysis.ipynb).
 
-## TODO list
-Upload DistilBert model.
+## Updates
+
+### 2020-06-07
+DistilBert model is also available to download from [Google Drive](https://drive.google.com/open?id=1LkaSQWfZTpkG3wpoaPVLFOOIEomFxl1S).
